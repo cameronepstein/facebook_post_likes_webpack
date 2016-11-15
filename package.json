@@ -1,0 +1,22 @@
+{
+  "name": "facebook_post_likes_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronepstein/facebook_post_likes_webpack.git"
+  },
+  "author": "cameronepstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronepstein/facebook_post_likes_webpack/issues"
+  },
+  "homepage": "https://github.com/cameronepstein/facebook_post_likes_webpack#readme",
+  "dependencies": {
+    "webpack": "^1.13.3"
+  }
+}
