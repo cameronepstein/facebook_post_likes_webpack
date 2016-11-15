@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/cameronepstein/facebook_post_likes_webpack#readme",
   "dependencies": {
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
     "webpack": "^1.13.3"
   }
 }
